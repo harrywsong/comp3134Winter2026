@@ -1,0 +1,11 @@
+• What is the definition of server port?
+- Server ports are numerical identifiers that direct network traffic through pathways(ports) that are available for specified network connections to use.
+
+• What is server port range?
+- A server port range is a range of numbers that are open and can be used for network connections/interactions. Ranges can be specified from 0 to 65535.
+
+• How many bits does number above represent?
+- Port numbers use 16 bits, hence the number 65535. This number is ((2^16)-1).
+
+• State 10 common server port
+- 21, 22, 25, 53, 80, 110, 143, 443, 993, 3306
