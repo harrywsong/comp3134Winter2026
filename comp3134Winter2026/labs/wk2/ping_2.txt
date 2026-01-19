@@ -1,0 +1,13 @@
+우혁@hws-pc MINGW64 ~
+$ ping 178.128.230.192 -w 10
+
+Pinging 178.128.230.192 with 32 bytes of data:
+Reply from 178.128.230.192: bytes=32 time=17ms TTL=54
+Reply from 178.128.230.192: bytes=32 time=12ms TTL=54
+Reply from 178.128.230.192: bytes=32 time=9ms TTL=54
+Reply from 178.128.230.192: bytes=32 time=15ms TTL=54
+
+Ping statistics for 178.128.230.192:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 17ms, Average = 13ms

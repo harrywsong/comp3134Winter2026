@@ -1,0 +1,55 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap youtube.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-19 21:33 UTC
+Nmap scan report for youtube.com (142.250.69.78)
+Host is up (0.0095s latency).
+Other addresses for youtube.com (not scanned): 2607:f8b0:4020:801::200e
+rDNS record for 142.250.69.78: tzyula-aa-in-f14.1e100.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.64 seconds
+
+--------------------------------------------------------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80 georgebrown.ca
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-19 21:34 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0025s latency).
+rDNS record for 198.96.86.176: insite.georgebrown.ca
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.10 seconds
+
+--------------------------------------------------------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80-999 wooting.io
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-19 21:35 UTC
+Nmap scan report for wooting.io (76.76.21.21)
+Host is up (0.052s latency).
+Not shown: 918 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 8.16 seconds
+
+--------------------------------------------------------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F discord.com
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-19 21:37 UTC
+Nmap scan report for discord.com (162.159.136.232)
+Host is up (0.0024s latency).
+Other addresses for discord.com (not scanned): 162.159.135.232 162.159.137.232 162.159.128.233 162.159.138.232
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 2.08 seconds
+

@@ -1,0 +1,189 @@
+youtube.com
+IP Address: 172.253.62.190
+
+Registrar Information
+Registrar
+MarkMonitor Inc.
+WHOIS Server
+whois.markmonitor.com
+Referral URL
+http://www.markmonitor.com
+
+Important Dates
+Created
+2/15/2005
+Updated
+1/14/2026
+Expires
+2/15/2027
+
+Nameservers
+Hostname	IP Address
+ns1.google.com	216.239.32.10
+ns2.google.com	216.239.34.10
+ns3.google.com	216.239.36.10
+ns4.google.com	216.239.38.10
+
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+
+Contact Information
+Registrant Contact
+Organization
+Google LLC
+Address
+US
+Email
+Select Request Email Form at https://domains [dot] markmonitor [dot] com/whois/youtube [dot] com
+Tech Contact
+Email
+Select Request Email Form at https://domains [dot] markmonitor [dot] com/whois/youtube [dot] com
+
+--------------------------------------------------------------------------------------------------------------
+
+facebook.com
+IP Address: 31.13.66.35
+
+Registrar Information
+Registrar
+RegistrarSafe, LLC
+WHOIS Server
+whois.registrarsafe.com
+Referral URL
+http://www.registrarsafe.com
+
+Important Dates
+Created
+3/29/1997
+Updated
+4/23/2025
+Expires
+3/30/2034
+
+Nameservers
+Hostname	IP Address
+b.ns.facebook.com	129.134.31.12
+c.ns.facebook.com	185.89.218.12
+a.ns.facebook.com	129.134.30.12
+d.ns.facebook.com	185.89.219.12
+
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+
+--------------------------------------------------------------------------------------------------------------
+
+x.com
+IP Address: 162.159.140.229
+
+Registrar Information
+Registrar
+GoDaddy.com, LLC
+WHOIS Server
+whois.godaddy.com
+Referral URL
+http://www.godaddy.com
+
+Important Dates
+Created
+4/2/1993
+Updated
+12/3/2024
+Expires
+10/20/2034
+
+Nameservers
+Hostname	IP Address
+a.r10.twtrdns.net	205.251.192.179
+a.u10.twtrdns.net	204.74.111.101
+b.r10.twtrdns.net	205.251.196.198
+b.u10.twtrdns.net	205.251.196.198
+c.r10.twtrdns.net	205.251.194.151
+c.u10.twtrdns.net	205.251.194.151
+d.r10.twtrdns.net	205.251.199.195
+d.u10.twtrdns.net	205.251.199.195
+
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+--------------------------------------------------------------------------------------------------------------
+
+naver.com
+IP Address: 223.130.192.247
+
+Registrar Information
+Registrar
+Gabia, Inc.
+WHOIS Server
+whois.gabia.com
+Referral URL
+http://www.gabia.com
+
+Important Dates
+Created
+9/12/1997
+Updated
+10/22/2025
+Expires
+9/11/2032
+
+Nameservers
+Hostname	IP Address
+ns1.naver.com	61.247.220.6
+ns2.naver.com	61.247.221.6
+ns3.naver.com	211.188.44.6
+
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+--------------------------------------------------------------------------------------------------------------
+
+daum.com
+IP Address: 148.66.138.196
+
+Registrar Information
+Registrar
+GoDaddy.com, LLC
+WHOIS Server
+whois.godaddy.com
+Referral URL
+http://www.godaddy.com
+
+Important Dates
+Created
+5/29/1997
+Updated
+1/18/2024
+Expires
+5/28/2026
+
+Nameservers
+Hostname	IP Address
+pdns09.domaincontrol.com	97.74.110.54
+pdns10.domaincontrol.com	173.201.78.54
+
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
