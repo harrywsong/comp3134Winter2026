@@ -1,0 +1,19 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+22:45:20.368294 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.8401: Flags [P.], seq 1370927678:1370927742, ack 451813406, win 501, options [nop,nop,TS val 3455426282 ecr 1928093050], length 64
+22:45:20.368373 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.8401: Flags [P.], seq 64:144, ack 1, win 501, options [nop,nop,TS val 3455426282 ecr 1928093050], length 80
+22:45:20.368409 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.8401: Flags [P.], seq 144:224, ack 1, win 501, options [nop,nop,TS val 3455426282 ecr 1928093050], length 80
+22:45:20.368442 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.8401: Flags [P.], seq 224:304, ack 1, win 501, options [nop,nop,TS val 3455426282 ecr 1928093050], length 80
+22:45:20.368488 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.8401: Flags [P.], seq 304:368, ack 1, win 501, options [nop,nop,TS val 3455426282 ecr 1928093050], length 64
+22:45:20.369472 IP 162.243.190.66.8401 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 64, win 501, options [nop,nop,TS val 1928093059 ecr 3455426282], length 0
+22:45:20.369472 IP 162.243.190.66.8401 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 144, win 501, options [nop,nop,TS val 1928093059 ecr 3455426282], length 0
+22:45:20.369472 IP 162.243.190.66.8401 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 224, win 501, options [nop,nop,TS val 1928093059 ecr 3455426282], length 0
+22:45:20.369530 IP 162.243.190.66.8401 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 304, win 501, options [nop,nop,TS val 1928093059 ecr 3455426282], length 0
+22:45:20.369560 IP 162.243.190.66.8401 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 501, options [nop,nop,TS val 1928093059 ecr 3455426282], length 0
+22:45:23.098305 IP 193.32.162.145.52160 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [S], seq 2026140684, win 64240, options [mss 1460,sackOK,TS val 2726930642 ecr 0,nop,wscale 7], length 0
+22:45:23.098402 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01 > 193.32.162.145: ICMP lamp-ubuntu-s-1vcpu-1gb-tor1-01 tcp port ssh unreachable, length 68
+22:45:23.999446 IP smith-fry.mastersocialize.org.uk.43361 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42611: Flags [S], seq 157481463, win 1024, length 0
+22:45:34.290728 IP ip-114-126.superbithost.com.47132 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.1515: Flags [S], seq 434148997, win 1024, length 0
+22:45:35.472583 IP 162.243.190.66.8401 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 501, options [nop,nop,TS val 1928108161 ecr 3455426282], length 0
+22:45:35.472669 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 162.243.190.66.8401: Flags [.], ack 1, win 501, options [nop,nop,TS val 3455441386 ecr 1928093059], length 0
+22:45:39.763140 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > hosting25.tronicsat.com.12554: Flags [P.], seq 1424870556:1424870636, ack 1415677135, win 608, length 80
